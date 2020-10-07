@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19f70668-0f7e-4454-8538-e862e3f006b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZqQ3YmPpecNywLvwkZVTqpaX4d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="calculator.Main" />
+      <module name="calculator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f70668-0f7e-4454-8538-e862e3f006b7" name="Default Changelist" comment="" />
+      <created>1585563945876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585563945876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1585565034633">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1085" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1585565034633" />
+    <state x="1060" y="276" key="FileChooserDialogImpl" timestamp="1585654913054">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="276" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1585654913054" />
+    <state width="2517" height="348" key="GridCell.Tab.0.bottom" timestamp="1585567799420">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1585567799420" />
+    <state width="2517" height="348" key="GridCell.Tab.0.center" timestamp="1585567799420">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1585567799420" />
+    <state width="2517" height="348" key="GridCell.Tab.0.left" timestamp="1585567799420">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1585567799420" />
+    <state width="2517" height="348" key="GridCell.Tab.0.right" timestamp="1585567799420">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1585567799420" />
+    <state width="2517" height="348" key="GridCell.Tab.1.bottom" timestamp="1585567799420">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1585567799420" />
+    <state width="2517" height="348" key="GridCell.Tab.1.center" timestamp="1585567799420">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1585567799420" />
+    <state width="2517" height="348" key="GridCell.Tab.1.left" timestamp="1585567799420">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1585567799420" />
+    <state width="2517" height="348" key="GridCell.Tab.1.right" timestamp="1585567799420">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1585567799420" />
+    <state x="662" y="141" key="new project wizard" timestamp="1585567798557">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="662" y="141" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1585567798557" />
+    <state x="936" y="240" key="run.anything.popup" timestamp="1585566631739">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="936" y="240" key="run.anything.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1585566631739" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="input == &quot;.&quot;" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

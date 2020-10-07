@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Excercises:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf33b6e5-5f19-4943-bf33-1bf2e2e349a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TZ0O5jsMSPpyf7cBRhtT1nRXCe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodeWars" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="GUI.Excercise1" />
+      <recent name="OOP.Excercise14" />
+      <recent name="Objects.Exercise5" />
+      <recent name="Objects.Exercise4" />
+      <recent name="Objects.Exercise3" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mass.length" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Spiral">
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.Excercise1.Exercise1" />
+      <module name="Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.Excercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Excercise14.Exercise14" />
+      <module name="Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Excercise14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.Excercise2.Exercise2" />
+      <module name="Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.Excercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Objects.Exercise5.Exercise5" />
+      <module name="Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Objects.Exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Spiral" />
+      <module name="Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Exercise5 (1)" />
+      <item itemvalue="Application.Exercise14" />
+      <item itemvalue="Application.Exercise1" />
+      <item itemvalue="Application.Exercise2" />
+      <item itemvalue="Application.Spiral" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Spiral" />
+        <item itemvalue="Application.Exercise14" />
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise1" />
+        <item itemvalue="Application.Exercise5 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf33b6e5-5f19-4943-bf33-1bf2e2e349a1" name="Default Changelist" comment="" />
+      <created>1573652274105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573652274105</updated>
+      <workItem from="1573652276587" duration="1311000" />
+      <workItem from="1573710964975" duration="5332000" />
+      <workItem from="1573730844404" duration="7086000" />
+      <workItem from="1573798093531" duration="5411000" />
+      <workItem from="1573803577294" duration="48000" />
+      <workItem from="1573803645088" duration="361000" />
+      <workItem from="1573808223593" duration="8973000" />
+      <workItem from="1573821472826" duration="9000" />
+      <workItem from="1574084238735" duration="536000" />
+      <workItem from="1574168926666" duration="716000" />
+      <workItem from="1574169706170" duration="1650000" />
+      <workItem from="1574226919465" duration="620000" />
+      <workItem from="1574768695153" duration="1378000" />
+      <workItem from="1574770175153" duration="1899000" />
+      <workItem from="1574836250042" duration="39000" />
+      <workItem from="1574850484444" duration="457000" />
+      <workItem from="1574851030754" duration="1251000" />
+      <workItem from="1574853073801" duration="1727000" />
+      <workItem from="1574930596841" duration="71000" />
+      <workItem from="1575444794319" duration="8062000" />
+      <workItem from="1575522507288" duration="589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="276" key="FileChooserDialogImpl" timestamp="1583345318926">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="276" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1583345318926" />
+    <state width="1340" height="328" key="GridCell.Tab.0.bottom" timestamp="1583345319928">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1583345319928" />
+    <state width="1340" height="328" key="GridCell.Tab.0.center" timestamp="1583345319928">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1583345319928" />
+    <state width="1340" height="328" key="GridCell.Tab.0.left" timestamp="1583345319928">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1583345319928" />
+    <state width="1340" height="328" key="GridCell.Tab.0.right" timestamp="1583345319928">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583345319928" />
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1583345319928">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1583345319928" />
+    <state width="1340" height="328" key="GridCell.Tab.1.center" timestamp="1583345319928">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1583345319928" />
+    <state width="1340" height="328" key="GridCell.Tab.1.left" timestamp="1583345319928">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1583345319928" />
+    <state width="1340" height="328" key="GridCell.Tab.1.right" timestamp="1583345319928">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583345319928" />
+    <state x="981" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583297921056">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="981" y="345" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1583297921056" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1579086857270">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1579086857270" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="mass[x - 1][y - 1]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Excercises$Spiral.ic" NAME="Spiral Coverage Results" MODIFIED="1583300204044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.*</FILTER>
+    </SUITE>
+  </component>
+</project>

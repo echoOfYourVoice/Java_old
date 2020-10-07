@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46c46e16-85d9-47ed-b9b2-79185aa63a20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGh2L3jdST0tylU7HoxIfCI9sE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GUI" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="grapgicsshape" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyComponent">
+    <configuration name="Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animation.Animation" />
+      <module name="MyGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Animation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphicsShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grapgicsshape.GraphicsShape" />
+      <module name="MyGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grapgicsshape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyComponent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyComponent.MyComponent" />
+      <module name="MyGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyComponent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyGraphics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mygraphics.MyGraphics" />
+      <module name="MyGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mygraphics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyImage.MyImage" />
+      <module name="MyGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyImage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyGraphics" />
+      <item itemvalue="Application.GraphicsShape" />
+      <item itemvalue="Application.Animation" />
+      <item itemvalue="Application.MyImage" />
+      <item itemvalue="Application.MyComponent" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyComponent" />
+        <item itemvalue="Application.Animation" />
+        <item itemvalue="Application.MyImage" />
+        <item itemvalue="Application.GraphicsShape" />
+        <item itemvalue="Application.MyGraphics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c46e16-85d9-47ed-b9b2-79185aa63a20" name="Default Changelist" comment="" />
+      <created>1584471129571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584471129571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1584532053192">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1085" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1584532053192" />
+    <state x="1010" y="297" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584471986359">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1010" y="297" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584471986359" />
+    <state x="1060" y="276" key="FileChooserDialogImpl" timestamp="1584945967370">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="276" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1584945967370" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom" timestamp="1584597960587">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584597960587" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center" timestamp="1584597960587">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584597960587" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left" timestamp="1584597960587">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584597960587" />
+    <state width="2517" height="282" key="GridCell.Tab.0.right" timestamp="1584597960587">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584597960587" />
+    <state width="2517" height="348" key="GridCell.Tab.1.bottom" timestamp="1584476196433">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584476196433" />
+    <state width="2517" height="348" key="GridCell.Tab.1.center" timestamp="1584476196433">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584476196433" />
+    <state width="2517" height="348" key="GridCell.Tab.1.left" timestamp="1584476196433">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584476196433" />
+    <state width="2517" height="348" key="GridCell.Tab.1.right" timestamp="1584476196433">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584476196433" />
+    <state x="781" y="163" key="SettingsEditor" timestamp="1584471644137">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="163" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1584471644137" />
+    <state x="976" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1584594219700">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="976" y="345" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584594219700" />
+    <state x="662" y="141" key="new project wizard" timestamp="1584597959303">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="662" y="141" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1584597959303" />
+    <state x="943" y="225" key="search.everywhere.popup" timestamp="1584471681709">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="943" y="225" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1584471681709" />
+  </component>
+</project>
